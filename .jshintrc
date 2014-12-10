@@ -1,0 +1,9 @@
+{
+  "curly": false,
+  "eqeqeq": true,
+  "undef": true,
+  "node": true,
+  "globals": {
+    "jQuery": true
+  }
+}

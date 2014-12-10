@@ -1,0 +1,1421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auth",
+				"authSuccessful"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ngMod",
+				"ngModelCtrl"
+			],
+			[
+				"ngMo",
+				"ngModelCtrl"
+			],
+			[
+				"angular",
+				"angular-ui-router"
+			],
+			[
+				"gool",
+				"google_api_auth"
+			],
+			[
+				"reque",
+				"required=\"true\"	required"
+			],
+			[
+				"make",
+				"makeApiCall"
+			],
+			[
+				"makeAp",
+				"makeApiCallButton"
+			],
+			[
+				"cur",
+				"currentMinScoreIndex"
+			],
+			[
+				"curre",
+				"currentMinScore"
+			],
+			[
+				"currentMi",
+				"currentMinScoreIndex"
+			],
+			[
+				"high",
+				"highTemperatureArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/c/DEV/Work/WebProjectWorkflows/.gitignore",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/c/DEV/Work/WebProjectWorkflows/README.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/c/DEV/Work/WebProjectWorkflows/package.json",
+			"settings":
+			{
+				"buffer_size": 426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var gulp = require('gulp');\n\n\n",
+			"file": "/c/DEV/Work/WebProjectWorkflows/gulpfile.js",
+			"file_size": 29,
+			"file_write_time": 130626850699265743,
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/c/DEV/Work/WebProjectWorkflows/.jshintrc",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 371.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cod",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"codef",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"format:",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"vnt",
+				"Vintageous: Toggle"
+			],
+			[
+				"vint",
+				"Vintageous: Reset"
+			],
+			[
+				"vit",
+				"Vintageous: Toggle"
+			],
+			[
+				"vin",
+				"Vintageous: Toggle"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/c/DEV/Work/WebProjectWorkflows"
+	],
+	"file_history":
+	[
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/DEV/Work/JWTApp/api/services/jobs.js",
+		"/C/DEV/Work/JWTApp/sapi/config/cors.js",
+		"/C/DEV/Work/JWTApp/frontend/app/index.html",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/install.js",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/DEV/Work/JWTApp/sapi/api/models/Job.js",
+		"/C/DEV/Work/JWTApp/sapi/config/models.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/controllers/jobs.js",
+		"/C/DEV/Work/JWTApp/api/services/jwt.js",
+		"/C/Temp/productfeed_google.xml",
+		"/C/Temp/test_productfeed_google.xml",
+		"/C/DEV/Work/JWTApp/api/services/localStrategy.js",
+		"/C/DEV/Work/JWTApp/api/api.js",
+		"/C/DEV/Work/JWTApp/api/services/emailVerification.js",
+		"/C/DEV/Work/JWTApp/api/services/config.js",
+		"/C/DEV/Work/JWTApp/api/models/User.js",
+		"/C/DEV/Work/JWTApp/api/views/emailVerification.html",
+		"/C/DEV/Work/JWTApp/api/services/googleAuth.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/C/DEV/Work/JWTApp/frontend/.tmp/styles/bootstrap-superhero.css",
+		"/C/DEV/Work/JWTApp/frontend/bower_components/jquery/src/attributes/support.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/source-map/build/suffix-utils.jsm",
+		"/C/DEV/Work/JWTApp/api/node_modules/crypto/sha1.js",
+		"/C/Users/Michael/AppData/Local/Temp/Rar$DRa0.347/basic.html",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/app.config.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/app.js",
+		"/C/DEV/Work/JWTApp/frontend/app/views/login.html",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/controllers/login.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/controllers/register.js",
+		"/C/DEV/Work/JWTApp/api/services/facebookAuth.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/controllers/header.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/controllers/logout.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/services/auth.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/jasmine-core/.bundle/config",
+		"/C/DEV/Work/JWTApp/api/node_modules/mongoose/CONTRIBUTING.md",
+		"/C/DEV/Work/JWTApp/frontend/bower_components/es5-shim/CHANGES",
+		"/C/DEV/Work/JWTApp/frontend/bower_components/bootstrap/less/list-group.less",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/log4js/examples/logstashUDP.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/log4js/test/logstashUDP-test.js",
+		"/C/DEV/Work/JWTApp/api/node_modules/mongoose/contRun.sh",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/useragent/CREDITS",
+		"/C/DEV/Work/JWTApp/api/node_modules/express/node_modules/etag/node_modules/crc/lib/create.js",
+		"/C/DEV/Work/JWTApp/frontend/app/views/header.html",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/http-proxy/test/core/simple/test-http-extra-response.js",
+		"/C/DEV/Work/JWTApp/api/node_modules/body-parser/HISTORY.md",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/grunt-contrib-clean/AUTHORS",
+		"/C/DEV/Work/JWTApp/frontend/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/DEV/Work/JWTApp/api/package.json",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/load-grunt-tasks/load-grunt-tasks.js",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/optimist/example/line_count_options.js",
+		"/C/DEV/Work/JWTApp/api/node_modules/bcrypt-nodejs/LICENSE",
+		"/C/DEV/Work/JWTApp/.gitignore",
+		"/C/DEV/Work/JWTApp/frontend/app/views/register.html",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/karma/node_modules/connect/examples/upload-stream.js",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/services/authinterceptor.js",
+		"/C/DEV/Work/JWTApp/frontend/app/styles/main.css",
+		"/C/DEV/Work/JWTApp/frontend/app/views/alert.html",
+		"/C/DEV/Work/JWTApp/frontend/app/views/jobs.html",
+		"/C/DEV/Work/JWTApp/frontend/app/scripts/services/authtoken.js",
+		"/C/DEV/Work/JWTApp/pluralsight-jwt.sublime-project",
+		"/C/DEV/Work/JWTApp/frontend/app/views/main.html",
+		"/C/DEV/Work/JWTApp/frontend/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/C/DEV/Work/JWTApp/frontend/app/views/test.html",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Installed Packages/Brackets Color Scheme.sublime-package",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/semicolon.sublime-macro",
+		"/C/DEV/Work/JWTApp/app/scripts/services/alert.js",
+		"/C/DEV/Work/JWTApp/app/index.html",
+		"/C/DEV/Work/JWTApp/app/styles/main.css",
+		"/C/DEV/Work/JWTApp/app/scripts/controllers/register.js",
+		"/C/DEV/Work/JWTApp/app/views/register.html",
+		"/C/DEV/Work/JWTApp/app/scripts/directives/validateEquals.js",
+		"/C/DEV/Work/JWTApp/bower.json",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/doctype.sublime-snippet",
+		"/C/DEV/Work/JWTApp/app/scripts/app.config.js",
+		"/C/DEV/Work/JWTApp/app/views/test.html",
+		"/C/DEV/Work/JWTApp/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/container.js",
+		"/C/DEV/Work/JWTApp/bower_components/angular-ui-router/CONTRIBUTING.md",
+		"/C/DEV/Work/JWTApp/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/C/DEV/Work/JWTApp/bower_components/es5-shim/CHANGES",
+		"/C/DEV/Work/JWTApp/app/views/main.html",
+		"/C/DEV/Work/JWTApp/app/scripts/app.js",
+		"/C/DEV/Work/bootjeet/css/style.css",
+		"/C/DEV/Work/bootjeet/index.html",
+		"/C/DEV/Work/bootjeet/css/style.styl",
+		"/C/DEV/Work/bootjeet/bower_components/jeet/scss/jeet/_settings.scss",
+		"/C/DEV/Work/JWTApp/app/scripts/controllers/main.js",
+		"/C/DEV/dbchangefiles/httpdocs/GoogleAnalytics/Application.cfc",
+		"/C/DEV/dbchangefiles/httpdocs/GoogleAnalytics/index.cfm",
+		"/C/DEV/dbchangefiles/httpdocs/test.html",
+		"/C/DEV/dbchangefiles/httpdocs/select2/select2.html",
+		"/C/DEV/dbchangefiles/httpdocs/select2/3.5.2/select2.css",
+		"/C/DEV/Work/GoogleAnalytics/GoogleAnalytics/Application.cfc",
+		"/C/DEV/dbchangefiles/httpdocs/select2/3.5.2/select2.html",
+		"/C/DEV/Work/GoogleAnalytics/hello_analytics_api_v3_auth.js",
+		"/C/DEV/Work/GoogleAnalytics/hello_analytics_api_v3.js",
+		"/C/DEV/Work/GoogleAnalytics/hello_analytics_api_v3.html",
+		"/C/DEV/Work/GoogleAnalytics/GoogleAnalytics/index.cfm",
+		"/C/DEV/Work/GoogleAnalytics/GoogleAnalytics/com/coldfumonkeh/Utils.cfc",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/ColdFusionCFC.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/DEV/Work/Zurb/foundation/A day with Browning.txt",
+		"/C/DEV/Work/Zurb/foundation/index.html",
+		"/C/DEV/Work/Zurb/foundation/humans.txt",
+		"/C/DEV/Work/Zurb/foundation/js/foundation/foundation.js",
+		"/C/DEV/Work/Zurb/foundation/country.txt",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/vintageous_toggler.py",
+		"/C/DEV/Work/Zurb/foundation/welcome.txt",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Installed Packages/Vintageous.sublime-package",
+		"/C/DEV/thewebshowroom.local/hello.js",
+		"/C/DEV/Work/NodeJSTut/node-todo/server.js",
+		"/C/DEV/Work/NodeJSTut/node-todo/package.json",
+		"/C/DEV/Work/MongoDB101JS/week_6_application_engineering/creating_a_replica_set/2.log",
+		"/C/DEV/Work/MongoDB101JS/week_6_application_engineering/creating_a_replica_set/3.log",
+		"/C/DEV/Work/MongoDB101JS/week_6_application_engineering/creating_a_replica_set/1.log",
+		"/C/DEV/Work/MongoDB101JS/week_6_application_engineering/creating_a_replica_set/2.log.2014-07-11T14-42-40",
+		"/C/DEV/Work/MongoDB101JS/create_replica_set.bat",
+		"/C/DEV/Work/MongoDB101JS/week_4_performance/homework_4_3_manual_validation_version/hw4-3/note.txt",
+		"/C/DEV/Work/MongoDB101JS/week_4_performance/homework_4_3_manual_validation_version/hw4-3/hw4-3/blog/posts.js",
+		"/C/DEV/Work/MongoDB101JS/week_4_performance/homework_4_3_manual_validation_version/hw4-3/hw4-3/README"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bcrypt",
+			"lame",
+			"transporter",
+			"tiny-button",
+			"btn",
+			"background-",
+			"background",
+			"passport",
+			"mongoose",
+			"jwt",
+			"moment",
+			"FACEBOOK_SECRET",
+			"facebookAuth",
+			"success",
+			"register",
+			"$authProvider",
+			"error",
+			"authToken",
+			"createSendToken",
+			"$authProvider",
+			"\n            ",
+			");\n",
+			"clientId",
+			"options",
+			"login",
+			"Login",
+			"login",
+			"Register",
+			"register",
+			"jobs",
+			"app.config.js",
+			"createSendToken",
+			"newUser",
+			"loginUser",
+			"$httpProvider",
+			"signature",
+			"rawSignature",
+			"header",
+			"value",
+			"0, 0, 0",
+			"scale3d(0.96, 0.96, 0.96)",
+			"ng-enter",
+			"0.96, 0.96, 0.96",
+			"-webkit-transition",
+			"logout",
+			"dataset",
+			"Home",
+			"main",
+			"'userToken'",
+			"main",
+			"Bauble Range",
+			"JewelleryLength",
+			"<?",
+			"Register",
+			"json",
+			"insert",
+			"head",
+			"hea",
+			"email",
+			"text",
+			"$parsers",
+			"address",
+			"text",
+			"$urlRouterProvider",
+			"$stateProvider",
+			"register",
+			"Select an ",
+			"\n	",
+			"stObjGA",
+			"/>\n",
+			"\"",
+			"handleAuthorized",
+			"Project",
+			"EBook",
+			"eBook",
+			"EBook",
+			"eBook",
+			"anywhere",
+			"eBook",
+			"Browning",
+			"/*",
+			"theme",
+			"appTodo",
+			"localhost",
+			"population",
+			"aggregrate",
+			"totalStudentCount",
+			"var",
+			"note.txt",
+			"hw3.3",
+			"displaySignupPage",
+			"displayLoginPage",
+			"TODO: hw2.3",
+			"TODO",
+			"Temperature",
+			"ninja2",
+			"ninja3",
+			"isNimble",
+			"values.sort",
+			"useless"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/DEV/Work/WebProjectWorkflows/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/c/DEV/Work/WebProjectWorkflows/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/c/DEV/Work/WebProjectWorkflows/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/c/DEV/Work/WebProjectWorkflows/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/c/DEV/Work/WebProjectWorkflows/.jshintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 205.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vi_out":
+	{
+		"height": 104.0
+	},
+	"project": "Workflows.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"jwt.js",
+				"api\\services\\jwt.js"
+			],
+			[
+				"config.js",
+				"api\\services\\config.js"
+			],
+			[
+				"superhero.cs",
+				"frontend\\.tmp\\styles\\bootstrap-superhero.css"
+			],
+			[
+				"api.js",
+				"api\\api.js"
+			],
+			[
+				"user.js",
+				"api\\models\\User.js"
+			],
+			[
+				"logout.js",
+				"frontend\\app\\scripts\\controllers\\logout.js"
+			],
+			[
+				"header.js",
+				"frontend\\app\\scripts\\controllers\\header.js"
+			],
+			[
+				"login.js",
+				"frontend\\app\\scripts\\controllers\\login.js"
+			],
+			[
+				"login.html",
+				"frontend\\app\\views\\login.html"
+			],
+			[
+				"auth.js",
+				"frontend\\app\\scripts\\services\\auth.js"
+			],
+			[
+				"app.config",
+				"frontend\\app\\scripts\\app.config.js"
+			],
+			[
+				"app.js",
+				"frontend\\app\\scripts\\app.js"
+			],
+			[
+				"app.confi",
+				"frontend\\app\\scripts\\app.config.js"
+			],
+			[
+				"appcon",
+				"frontend\\app\\scripts\\app.config.js"
+			],
+			[
+				"index.",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\DEV\\Work\\NodeJSTut\\express-router\\express-router.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

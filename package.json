@@ -1,0 +1,21 @@
+{
+  "name": "WebProjectWorkflows",
+  "version": "1.0.0",
+  "description": "A project to showcase Web Project Workflows with Gulp, Git and Browserify",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "git",
+    "and",
+    "browserify"
+  ],
+  "author": "Michael Trang",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1"
+  }
+}
